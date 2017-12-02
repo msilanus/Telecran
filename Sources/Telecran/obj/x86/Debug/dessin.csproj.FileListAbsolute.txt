@@ -1,0 +1,7 @@
+C:\Users\Utilisateur\AppData\Local\Temporary Projects\dessin\bin\Debug\dessin.exe
+C:\Users\Utilisateur\AppData\Local\Temporary Projects\dessin\bin\Debug\dessin.pdb
+C:\Users\Utilisateur\AppData\Local\Temporary Projects\dessin\obj\x86\Debug\dessin.Form1.resources
+C:\Users\Utilisateur\AppData\Local\Temporary Projects\dessin\obj\x86\Debug\dessin.Properties.Resources.resources
+C:\Users\Utilisateur\AppData\Local\Temporary Projects\dessin\obj\x86\Debug\dessin.csproj.GenerateResource.Cache
+C:\Users\Utilisateur\AppData\Local\Temporary Projects\dessin\obj\x86\Debug\dessin.exe
+C:\Users\Utilisateur\AppData\Local\Temporary Projects\dessin\obj\x86\Debug\dessin.pdb
