@@ -5,3 +5,10 @@ D:\Visual Studio 2010\Projects\Telecran\Telecran\obj\x86\Debug\dessin.Properties
 D:\Visual Studio 2010\Projects\Telecran\Telecran\obj\x86\Debug\Telecran.csproj.GenerateResource.Cache
 D:\Visual Studio 2010\Projects\Telecran\Telecran\obj\x86\Debug\Telecran.exe
 D:\Visual Studio 2010\Projects\Telecran\Telecran\obj\x86\Debug\Telecran.pdb
+D:\Visual Studio 2010\Projects\Telecran\Sources\Telecran\obj\x86\Debug\Telecran.exe
+D:\Visual Studio 2010\Projects\Telecran\Sources\Telecran\obj\x86\Debug\Telecran.pdb
+D:\Visual Studio 2010\Projects\Telecran\Sources\Telecran\bin\Debug\Telecran.exe
+D:\Visual Studio 2010\Projects\Telecran\Sources\Telecran\bin\Debug\Telecran.pdb
+D:\Visual Studio 2010\Projects\Telecran\Sources\Telecran\obj\x86\Debug\dessin.Form1.resources
+D:\Visual Studio 2010\Projects\Telecran\Sources\Telecran\obj\x86\Debug\dessin.Properties.Resources.resources
+D:\Visual Studio 2010\Projects\Telecran\Sources\Telecran\obj\x86\Debug\Telecran.csproj.GenerateResource.Cache
